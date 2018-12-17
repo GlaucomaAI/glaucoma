@@ -7,3 +7,5 @@ Glaucoma is a common difficult eye disease with intermittent or continuous eleva
 This is a glaucoma patient using self-help program, I am a 20-year programmer, is also a glaucoma patient, since suffering from glaucoma, with daily eye drops, reduce intraocular pressure. In addition, go to the hospital regularly to check intraocular pressure, there is no better way, with the decline of vision, feel powerless for the future. With the development of technology and the cheapness of artificial intelligence prediction technology, when our eyesight is so low that we canundefinedt see the world clearly, we need the help of AI to help us live and work. God helps those who help themselves, and those who abandon themselves abandon them. With the help of the open source community, programmers and volunteers, work together to build a platform, with the power of technology, so that our future is better.
 
 
+群名称：青光眼助手
+QQ群号：248031403
