@@ -9,3 +9,5 @@ This is a glaucoma patient using self-help program, I am a 20-year programmer, i
 
 群名称：青光眼助手
 QQ群号：248031403
+
+<img src="青光眼助手群二维码.png"/>
